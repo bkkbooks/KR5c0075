@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5c0075/krp/v1/juan/0
+seq: 0
+front:
+  text: 道德真經新注序能一自然之道靜故天地萬物生於其中人為萬物之主故與天地為三才焉老君在西周之日故秉道德以救時俗道者清淨自然之道也德者以法久而失修而得之謂之德也故曰道大天大地大王亦大是謂域中四大焉蓋王者法地法天法道之三自然妙理而理天下也天下得之而安故謂之德凡言人屬者耳故曰人法地地法天天法道道法自然言法上三大之自然理也其義云法地地如
+  hash: sha256:08da2114e47153addfe2839e63a5ab2e3ddc4d21177d76cb32bc6007c7487167
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5c0075_HFL_000-001a, image: hfl/0375/0375-004.png}
+body:
+  text: 地之無私載法天天如天之無私覆法道道如道之無私生成而已矣如君君臣臣父父子子之例也後之學者不得聖人之㫖謬妄相傳凡二十家注義皆云人法地地法天天法道道法自然即域中五大矣與經文乖謬而失教之意也豈王者只得法地而不得法天法道乎又况地法天天法道道法自然義理疏遠矣源流既撓支派遂昏或宗之為神仙書或語之以虛無學論者非云先黃老而後六經乃淺俗之談也殊不知六經乃黃老之枝葉爾余少得㫖要故辨而釋之蓋清心養氣安家保國之術也
+  hash: sha256:733aaca58dce08f5cf34af27cffcf3683c1d975a28ae3f9035b7e5529d256aea
+metadata:
+  title: 道德真經新註
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 00:18:35.359889'
+  source:
+    repository: kanripo
+    path: KR5c0075/KR5c0075_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:c76eda8a0ab4044b228542f59942b0ae18964663347f8c14310ba60aa11e7792

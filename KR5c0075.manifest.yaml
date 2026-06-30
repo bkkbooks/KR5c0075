@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR5c0075/v1
+canonical_location: https://kanripo.org/bkk/KR5c0075/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 道德真經新註
+  identifiers:
+    alt_id:
+    - DZ0692
+  date: '2015-08-29 00:18:35.359889'
+  source:
+    repository: kanripo
+    path: KR5c0075
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  base_edition: HFL
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: HFL
+  label: 【正統道藏・涵芬樓版】
+- short: ZTDZ
+  label: 【正統道藏・三家本】
+- short: SJB
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0075_000.yaml, hash: 'sha256:c76eda8a0ab4044b228542f59942b0ae18964663347f8c14310ba60aa11e7792'}
+  - {seq: 1, filename: KR5c0075_001.yaml, hash: 'sha256:ef9d8489864c94d62373afefbd92c1f07197941dfef5e4b146ea515aa804fca4'}
+  - {seq: 2, filename: KR5c0075_002.yaml, hash: 'sha256:bb0fc4ed0407fe7b17ea04b3dd02cf1f1ffec8cdc8a897ceac2c709de4338c67'}
+  - {seq: 3, filename: KR5c0075_003.yaml, hash: 'sha256:47fbd89d53a25650bb81379cd1f533a9997925081b1ffcd8244e1c49263a5386'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0075_000.markers.yaml, hash: 'sha256:2b899e1075a84d00f94bbc0d46c0ada4f6d881ae90850851cdb336794d270a4b'}
+  - {seq: 1, role: markers, filename: assets/KR5c0075_001.markers.yaml, hash: 'sha256:dc5e9e64c2d751664b9b3334ef425761dde8265aaeafb5d2ea68ccad9a33caa6'}
+  - {seq: 2, role: markers, filename: assets/KR5c0075_002.markers.yaml, hash: 'sha256:03ec9791a5e3d25f8cae0a9dbe466ca8d7aeee90a0bce33b5f8479be2f0f804f'}
+  - {seq: 3, role: markers, filename: assets/KR5c0075_003.markers.yaml, hash: 'sha256:7459e83d1b696d21e983bdd217ac63854dc4e3ed2fa516413621c2d5987aba31'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0075_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 196
+  label: juan 000
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR5c0075_HFL_001-001a
+    span:
+    - body
+    - 0
+    - 3453
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5c0075_HFL_002-001a
+    span:
+    - body
+    - 0
+    - 4475
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5c0075_HFL_003-001a
+    span:
+    - body
+    - 0
+    - 8526
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:4fa6b9defa0c226fb6fb86d03adcb94f6585c5000c9f33e9f2482b5585716718
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
